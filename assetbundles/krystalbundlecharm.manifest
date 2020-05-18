@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3873850811
+CRC: 2006122674
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 81782d38e82b23c1db5eaf94b5a71660
+    Hash: 92280a43fe6f1c2d672c9453e85d38fc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 848e8bf41a9290db639fc958fbe8c074
@@ -26,6 +26,6 @@ ClassTypes:
 - Class: 135
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/knot 1.prefab
+- Assets/Prefabs/knot.prefab
 - Assets/Prefabs/Sphere.prefab
 Dependencies: []
